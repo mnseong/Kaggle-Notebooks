@@ -355,5 +355,7 @@ poetry.toml
 *.csv
 *.xlsx
 *.zip
+test
+train
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
